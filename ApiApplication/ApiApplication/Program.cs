@@ -19,10 +19,15 @@ namespace ApiApplication
                 Console.WriteLine($"ID: {data.Id}, Name: {data.Name}");
             }
         }
-        public static void Main(string[] args)
+        public static async Task Main(string[] args)
         {
-            Program program = new Program();
-            program.runner();
+            var apiHandler = new ApiHandler<User>(apiUrl, endPoint);
+            Console.WriteLine("Get All Users");
+            var result = await apiHandler.GetAllAsync();
+            foreach (var data in result)
+            {
+                Console.WriteLine($"ID: {data.Id}, Name: {data.Name}");
+            }
         }
     }
 }
