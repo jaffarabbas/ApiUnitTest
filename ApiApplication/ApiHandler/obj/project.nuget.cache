@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xWuU5CwgF45FlrodEUMohwkXr8pSnev0t3edWCtJ6WRsIJQDSZAW9/wwsA2n65wPnKRcmlO2qKWt0HNT2wPwcQ==",
+  "success": true,
+  "projectFilePath": "J:\\GitHub\\ApiUnitTest\\ApiApplication\\ApiHandler\\ApiHandler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DARKLORD\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

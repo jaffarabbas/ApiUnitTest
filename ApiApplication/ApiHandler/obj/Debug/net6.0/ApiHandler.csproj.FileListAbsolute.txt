@@ -1,0 +1,12 @@
+J:\GitHub\ApiUnitTest\ApiApplication\ApiHandler\obj\Debug\net6.0\ApiHandler.csproj.AssemblyReference.cache
+J:\GitHub\ApiUnitTest\ApiApplication\ApiHandler\obj\Debug\net6.0\ApiHandler.GeneratedMSBuildEditorConfig.editorconfig
+J:\GitHub\ApiUnitTest\ApiApplication\ApiHandler\obj\Debug\net6.0\ApiHandler.AssemblyInfoInputs.cache
+J:\GitHub\ApiUnitTest\ApiApplication\ApiHandler\obj\Debug\net6.0\ApiHandler.AssemblyInfo.cs
+J:\GitHub\ApiUnitTest\ApiApplication\ApiHandler\obj\Debug\net6.0\ApiHandler.csproj.CoreCompileInputs.cache
+J:\GitHub\ApiUnitTest\ApiApplication\ApiHandler\bin\Debug\net6.0\ApiHandler.deps.json
+J:\GitHub\ApiUnitTest\ApiApplication\ApiHandler\bin\Debug\net6.0\ApiHandler.dll
+J:\GitHub\ApiUnitTest\ApiApplication\ApiHandler\bin\Debug\net6.0\ApiHandler.pdb
+J:\GitHub\ApiUnitTest\ApiApplication\ApiHandler\obj\Debug\net6.0\ApiHandler.dll
+J:\GitHub\ApiUnitTest\ApiApplication\ApiHandler\obj\Debug\net6.0\refint\ApiHandler.dll
+J:\GitHub\ApiUnitTest\ApiApplication\ApiHandler\obj\Debug\net6.0\ApiHandler.pdb
+J:\GitHub\ApiUnitTest\ApiApplication\ApiHandler\obj\Debug\net6.0\ref\ApiHandler.dll
