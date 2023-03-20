@@ -1,8 +1,3 @@
-J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\obj\Debug\net6.0\ApiApplication.csproj.AssemblyReference.cache
-J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\obj\Debug\net6.0\ApiApplication.GeneratedMSBuildEditorConfig.editorconfig
-J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\obj\Debug\net6.0\ApiApplication.AssemblyInfoInputs.cache
-J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\obj\Debug\net6.0\ApiApplication.AssemblyInfo.cs
-J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\obj\Debug\net6.0\ApiApplication.csproj.CoreCompileInputs.cache
 J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\bin\Debug\net6.0\ApiApplication.exe
 J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\bin\Debug\net6.0\ApiApplication.deps.json
 J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\bin\Debug\net6.0\ApiApplication.runtimeconfig.json
@@ -11,6 +6,11 @@ J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\bin\Debug\net6.0\ApiApplicat
 J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\bin\Debug\net6.0\Newtonsoft.Json.dll
 J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\bin\Debug\net6.0\ApiHandler.dll
 J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\bin\Debug\net6.0\ApiHandler.pdb
+J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\obj\Debug\net6.0\ApiApplication.csproj.AssemblyReference.cache
+J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\obj\Debug\net6.0\ApiApplication.GeneratedMSBuildEditorConfig.editorconfig
+J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\obj\Debug\net6.0\ApiApplication.AssemblyInfoInputs.cache
+J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\obj\Debug\net6.0\ApiApplication.AssemblyInfo.cs
+J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\obj\Debug\net6.0\ApiApplication.csproj.CoreCompileInputs.cache
 J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\obj\Debug\net6.0\ApiApplication.csproj.CopyComplete
 J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\obj\Debug\net6.0\ApiApplication.dll
 J:\GitHub\ApiUnitTest\ApiApplication\ApiApplication\obj\Debug\net6.0\refint\ApiApplication.dll

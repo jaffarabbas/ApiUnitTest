@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiApplication", "ApiApplic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiHandler", "ApiHandler\ApiHandler.csproj", "{BB814E3E-89DC-4D2B-9021-CCA89DD1FC6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{F08738A7-3C1E-419A-A558-EC7A26D488BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnitApiTesting", "NUnitApiTesting\NUnitApiTesting.csproj", "{F08738A7-3C1E-419A-A558-EC7A26D488BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiTestingByMsTest", "ApiTestingByMsTest\ApiTestingByMsTest.csproj", "{2B474F31-A9B1-4C36-A04C-86B19525D900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTestingBDD", "ApiTestingBDD\ApiTestingBDD.csproj", "{2D42544B-004B-4040-9E7B-270D4467B9A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{F08738A7-3C1E-419A-A558-EC7A26D488BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F08738A7-3C1E-419A-A558-EC7A26D488BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F08738A7-3C1E-419A-A558-EC7A26D488BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B474F31-A9B1-4C36-A04C-86B19525D900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B474F31-A9B1-4C36-A04C-86B19525D900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B474F31-A9B1-4C36-A04C-86B19525D900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B474F31-A9B1-4C36-A04C-86B19525D900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D42544B-004B-4040-9E7B-270D4467B9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D42544B-004B-4040-9E7B-270D4467B9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D42544B-004B-4040-9E7B-270D4467B9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D42544B-004B-4040-9E7B-270D4467B9A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
