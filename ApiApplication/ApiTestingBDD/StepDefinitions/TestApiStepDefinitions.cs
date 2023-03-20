@@ -29,7 +29,7 @@ namespace ApiTestingBDD.StepDefinitions
         [Then(@"i compare first user name with list first user object")]
         public void ThenICompareFirstUserNameWithListFirstUserObject()
         {
-            Assert.AreEqual(1, resultList[0].Id);
+            Assert.AreEqual("Leanne Graham", resultList[0].Name);
         }
     }
 }
