@@ -24,13 +24,13 @@ namespace ApiTestingBDD.StepDefinitions
         public async Task WhenICallAllUserFromApiAndSaveItIntoTheVariable()
         {
             apiHandler = new ApiHandler<User>(apiUrl, endPoint);
-            result = await apiHandler.GetByIdAsync(1);
+            result = await apiHandler.GetByIdAsync(4);
         }
 
         [Then(@"i compare user name with user object name")]
         public void ThenICompareUserNameWithUserObjectName()
         {
-            Assert.AreEqual("John", result.Name);
+            Assert.AreEqual("Jaffar Abbas", result.Name);
         }
     }
 }
