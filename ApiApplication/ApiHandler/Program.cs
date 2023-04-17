@@ -43,7 +43,7 @@ public class ApiHandler<T>
         }
     }
 
-    public async Task<int> CreateAsync(T entity)
+    public async Task<T> CreateAsync(T entity)
     {
         var url = $"{_baseUrl}/{_resource}";
         using (var client = new HttpClient())
@@ -53,8 +53,8 @@ public class ApiHandler<T>
             var response = await client.PostAsync(url, content);
             response.EnsureSuccessStatusCode();
             var responseContent = await response.Content.ReadAsStringAsync();
-            var id = JsonConvert.DeserializeObject<int>(responseContent);
-            return id;
+            var data = JsonConvert.DeserializeObject<T>(responseContent);
+            return data;
         }
     }
 

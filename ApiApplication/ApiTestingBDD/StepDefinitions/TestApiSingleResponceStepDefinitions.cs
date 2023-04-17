@@ -16,8 +16,8 @@ namespace ApiTestingBDD.StepDefinitions
         [Given(@"I have api url and end points")]
         public void GivenIHaveApiUrlAndEndPoints()
         {
-            apiUrl = "https://jsonplaceholder.typicode.com";
-            endPoint = "users";
+            apiUrl = "https://localhost:7295/api";
+            endPoint = "user";
         }
 
         [When(@"I call all user from api and save it into the variable")]
@@ -30,7 +30,7 @@ namespace ApiTestingBDD.StepDefinitions
         [Then(@"i compare user name with user object name")]
         public void ThenICompareUserNameWithUserObjectName()
         {
-            Assert.AreEqual("Leanne Graham", result.Name);
+            Assert.AreEqual("John", result.Name);
         }
     }
 }

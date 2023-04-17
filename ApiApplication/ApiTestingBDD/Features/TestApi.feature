@@ -1,4 +1,4 @@
-﻿Feature: TestApi
+﻿Feature: Test All Api Response 
 	Call api and capre it response
 @mytag
 Scenario: Test a all user name from api
