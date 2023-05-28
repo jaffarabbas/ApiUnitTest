@@ -15,7 +15,7 @@ namespace ApiTestingBDD.StepDefinitions
         User result;
         private User userDataForPost = new User()
         {
-            Id = 4,
+            Id = 5,
             Email = "test@test.com",
             Name = "Jaffar Abbas"
         };

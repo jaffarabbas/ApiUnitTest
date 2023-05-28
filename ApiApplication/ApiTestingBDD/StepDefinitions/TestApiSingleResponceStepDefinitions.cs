@@ -24,7 +24,7 @@ namespace ApiTestingBDD.StepDefinitions
         public async Task WhenICallAllUserFromApiAndSaveItIntoTheVariable()
         {
             apiHandler = new ApiHandler<User>(apiUrl, endPoint);
-            result = await apiHandler.GetByIdAsync(4);
+            result = await apiHandler.GetByIdAsync(5);
         }
 
         [Then(@"i compare user name with user object name")]
